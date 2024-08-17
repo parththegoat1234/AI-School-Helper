@@ -50,7 +50,7 @@ Ask questions about the extracted text, and get responses using **Groq's LLaMA 3
 
 ## **👏 Credits**
 
-Special thanks to the creators of [LaTeXOCR]([url](https://github.com/lukas-blecher/LaTeX-OCR)) for making accurate text extraction from complex scientific images possible.
+Special thanks to the creators of **LaTeXOCR**:https://github.com/lukas-blecher/LaTeX-OCR for making accurate text extraction from complex scientific images possible.
 
 ## **Contribution**
 
